@@ -12,14 +12,6 @@ A simple Java console-based Notes Manager that uses file handling to store and r
 - Java
 - File Handling
 
-## How to Run
-
-1. Compile the program:
-   javac NotesManager.java
-
-2. Run the program:
-   java NotesManager
-
 ## Learning Concepts
 - FileWriter
 - FileReader
